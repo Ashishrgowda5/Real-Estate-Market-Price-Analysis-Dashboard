@@ -22,5 +22,4 @@ It provides insights into property prices, listings, market value, and property 
 - Market value trends help identify investment opportunities.
 - Apartments and Villas dominate listings.
 
-# Dashboard Preview 
-![Dashboard](Realestate Dashboard.png)
+![Dashboard](dashboard.png)
