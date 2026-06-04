@@ -1,2 +1,24 @@
-# Real-Estate-Market-Price-Analysis-Dashboard
-This Power BI project provides an end-to-end data analysis and visualization solution for understanding real estate market trends, property pricing, and buyer insights. The dashboard transforms raw property data into clear, interactive visual reports that help users make informed decisions about buying, selling, or investing in real estate.
+# Real Estate Market Price Analysis Dashboard
+
+## Project Overview
+This project analyzes real estate market trends across multiple cities using Power BI. 
+It provides insights into property prices, listings, market value, and property types.
+
+## Tools Used
+- Excel
+- SQL
+- Power BI
+
+## Key Features
+- City-wise property analysis
+- Monthly price trends
+- Property type analysis
+- Interactive dashboard filters
+- Market value visualization
+
+## Business Insights
+- Bengaluru and Chennai show high property activity.
+- Property prices vary significantly across cities.
+- Market value trends help identify investment opportunities.
+- Apartments and Villas dominate listings.
+
